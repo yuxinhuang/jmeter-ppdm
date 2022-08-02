@@ -1,0 +1,38 @@
+2022-07-28 15:05:07,911 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2022-07-28 15:05:07,926 INFO o.a.j.JMeter: Loading user properties from: C:\Users\Yuxin_Huang\apache-jmeter-5.5\bin\user.properties
+2022-07-28 15:05:07,927 INFO o.a.j.JMeter: Loading system properties from: C:\Users\Yuxin_Huang\apache-jmeter-5.5\bin\system.properties
+2022-07-28 15:05:07,932 INFO o.a.j.JMeter: Copyright (c) 1998-2022 The Apache Software Foundation
+2022-07-28 15:05:07,933 INFO o.a.j.JMeter: Version 5.5
+2022-07-28 15:05:07,933 INFO o.a.j.JMeter: java.version=11.0.2
+2022-07-28 15:05:07,933 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2022-07-28 15:05:07,933 INFO o.a.j.JMeter: os.name=Windows 10
+2022-07-28 15:05:07,933 INFO o.a.j.JMeter: os.arch=amd64
+2022-07-28 15:05:07,933 INFO o.a.j.JMeter: os.version=10.0
+2022-07-28 15:05:07,933 INFO o.a.j.JMeter: file.encoding=Cp1252
+2022-07-28 15:05:07,933 INFO o.a.j.JMeter: java.awt.headless=null
+2022-07-28 15:05:07,933 INFO o.a.j.JMeter: Max memory     =1073741824
+2022-07-28 15:05:07,933 INFO o.a.j.JMeter: Available Processors =12
+2022-07-28 15:05:07,940 INFO o.a.j.JMeter: Default Locale=English (EN)
+2022-07-28 15:05:07,940 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2022-07-28 15:05:07,940 INFO o.a.j.JMeter: JMeterHome=C:\Users\Yuxin_Huang\apache-jmeter-5.5
+2022-07-28 15:05:07,940 INFO o.a.j.JMeter: user.dir  =C:\Users\Yuxin_Huang\apache-jmeter-5.5
+2022-07-28 15:05:07,941 INFO o.a.j.JMeter: PWD       =C:\Users\Yuxin_Huang\apache-jmeter-5.5
+2022-07-28 15:05:07,942 INFO o.a.j.JMeter: IP: 10.135.18.14 Name: W106C6ZLL3 FullName: W106C6ZLL3.aus.amer.dell.com
+2022-07-28 15:05:07,953 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-07-28 15:05:08,117 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2022-07-28 15:05:10,261 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_10-73573cbbb115f3897eb547b110510269-gui
+2022-07-28 15:05:11,955 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-casutg=2.10, jpgc-dummy=0.4, jpgc-plugins-manager=1.7, jpgc-tst=2.5, jmeter-core=5.5, jmeter-ftp=5.5, jmeter-http=5.5, jmeter-jdbc=5.5, jmeter-jms=5.5, jmeter-junit=5.5, jmeter-java=5.5, jmeter-ldap=5.5, jmeter-mail=5.5, jmeter-mongodb=5.5, jmeter-native=5.5, jmeter-tcp=5.5, jmeter-components=5.5]
+2022-07-28 15:05:16,399 INFO o.a.j.s.FileServer: Default base='C:\Users\Yuxin_Huang\apache-jmeter-5.5'
+2022-07-28 15:05:16,401 INFO o.a.j.g.a.Load: Loading file: C:\Users\Yuxin_Huang\apache-jmeter-5.5\bin\ppdm-test.jmx
+2022-07-28 15:05:16,401 INFO o.a.j.s.FileServer: Set new base='C:\Users\Yuxin_Huang\apache-jmeter-5.5\bin'
+2022-07-28 15:05:16,483 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-07-28 15:05:16,490 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-07-28 15:05:16,491 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-07-28 15:05:16,491 INFO o.a.j.s.SaveService: Loading file: C:\Users\Yuxin_Huang\apache-jmeter-5.5\bin\ppdm-test.jmx
+2022-07-28 15:05:16,563 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-07-28 15:05:16,563 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-07-28 15:05:16,563 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-07-28 15:05:16,563 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-07-28 15:05:16,563 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-07-28 15:05:16,563 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-07-28 15:05:16,997 INFO o.a.j.s.FileServer: Set new base='C:\Users\Yuxin_Huang\apache-jmeter-5.5\bin'
