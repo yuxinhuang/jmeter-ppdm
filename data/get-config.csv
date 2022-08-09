@@ -1,2 +1,0 @@
-﻿testNum,IP,URI,port,username,password,verb,numThreads,requestsPerThread,bodyFile,testDuration,rampUpTime
-1,10.235.46.217,/api/v3/infrastructure-objects,8580,admin,Changeme@1,GET,200,10,NA,5,10
