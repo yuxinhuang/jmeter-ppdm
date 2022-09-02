@@ -1,2 +1,0 @@
-testNum,IP,URI,port,username,password,verb,numThreads,requestsPerThread,bodyFile,dependencies,numDependencies,testDuration,rampUpTime
-1,10.235.46.217,/api/v3/infrastructure-objects,8580,admin,Changeme@1,POST,20,10,application-system-template,/api/v3/infrastructure-objects:application-host-template:hostID,1,100,10
